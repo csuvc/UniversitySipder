@@ -7,6 +7,6 @@ school_url_spider 用于抓取国内所有高校的url地址
 
 # Usage:
 ```[-] Usage: school_url_spider.py -o outputfile
-Error: argument -o/--output is required```
-
+Error: argument -o/--output is required
+```
 # Screenshot:
