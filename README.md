@@ -11,3 +11,4 @@ school_url_spider 用于抓取国内所有高校的url地址
 Error: argument -o/--output is required
 ```
 # Screenshot:
+![avatar](https://github.com/heroanswer/school_url_spider/blob/master/screenshot.png)
