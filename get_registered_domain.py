@@ -3,8 +3,6 @@
 
 '''提取注册域名'''
 
-__author__ = "@answer"
-
 import tldextract
 
 def run():
