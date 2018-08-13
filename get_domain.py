@@ -4,8 +4,6 @@
 import os
 from multiprocessing import Pool
 
-__author__ = "@answer"
-
 def run_subdomain(target):
     subdomains_brute_path = '/opt/subDomainsBrute/' #　subDomainsBrute工具路径
     os.chdir(subdomains_brute_path)
