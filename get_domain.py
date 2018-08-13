@@ -1,8 +1,6 @@
 #/usr/bin/env python
 #-*- coding:utf-8 -*-
 
-'''多进程批量子域名爆破'''
-
 import os
 from multiprocessing import Pool
 
